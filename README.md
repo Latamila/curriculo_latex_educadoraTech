@@ -1,0 +1,1 @@
+# curriculo_latex_educadoraTech
